@@ -1,0 +1,13 @@
+.tab-btn {
+  outline: none;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: Roboto;
+  border: 0px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.active-tab {
+  color: #fec653;
+  text-decoration: underline;
+}

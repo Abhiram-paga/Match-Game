@@ -1,0 +1,13 @@
+.images-list-item-container {
+  width: 20%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+img {
+  width: 70%;
+}
+.button {
+  outline: none;
+  background-color: transparent;
+  border: 0px;
+}
